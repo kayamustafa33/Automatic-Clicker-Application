@@ -32,4 +32,4 @@ Contributions are welcome! If you want to contribute to this project, feel free 
 
 ## License
 
-This project is licensed under the General Public License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the General Public License - see the ([LICENSE.md](https://github.com/kayamustafa33/Oto-Click/blob/main/LICENSE)) file for details.
