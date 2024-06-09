@@ -57,6 +57,6 @@ start_button.pack(pady=10)
 stop_button = tk.Button(root, text="Stop", command=stop_clicker)
 stop_button.pack(pady=5)
 
-root.bind("<Key>", on_key_press)  # Klavyeden herhangi bir tuşa basıldığında stop_clicker fonksiyonunu çağırır
+root.bind("<Key>", on_key_press)
 
 root.mainloop()
